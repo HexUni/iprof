@@ -1,0 +1,3 @@
+#HALISM = Hálózati ismeretek I .
+Kurzus tematika
+Leírás stb...
